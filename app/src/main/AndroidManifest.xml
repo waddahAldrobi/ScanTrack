@@ -3,8 +3,7 @@
     package="com.example.waddahaldrobi.scantrack">
 
 
-    <uses-permission android:name="android.permission.CAMERA"/>
-
+    <uses-permission android:name="android.permission.CAMERA" />
 
     <application
         android:allowBackup="true"
